@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Low Poly Animated Animals/DEMO Scenes/DEMO - elephant.unity
     guid: 8778300c4000046a0b2cce729909acb0
   - enabled: 1
-    path: Assets/Safari.unity
+    path: Assets/OwnAssets/Scene/Safari.unity
     guid: 7f389662a58a1b84fbe2e8fd2457c034
   - enabled: 0
     path: Assets/Low Poly Animated Animals/DEMO Scenes/DEMO - bear.unity
     guid: 5abd53d380d7f4f039384f21779a793c
+  - enabled: 0
+    path: Assets/POLYGON - Nature Pack v1.0 exported/Scenes/DemoScene_01.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
   m_configObjects: {}
